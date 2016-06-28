@@ -21,7 +21,7 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 ************************************************************
 وراها حط
 **************
-git clone https://github.com/ahm3d97/Th3_BOOS.git
+git clone https://github.com/zaeem998/Bollywood1.git
 *****************************************************
 وراها حط
 **************************
