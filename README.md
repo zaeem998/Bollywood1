@@ -1,4 +1,6 @@
 # Bollywood1
+[DEV_1] (https://telegram.me/M1_l1)
+[DEV_2] (https://telegram.me/Yi_iY)
 
 طريقه تنصيب البوت
 
