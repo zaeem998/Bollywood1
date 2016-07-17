@@ -1,3 +1,0 @@
-List of Groups:
-*Use #join (ID) to join*
-
